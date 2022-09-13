@@ -1,0 +1,8 @@
+node_modules
+other
+.DS_Store
+package-lock.json
+proxies.txt
+sitelist.txt
+config.json
+chromium
